@@ -1,5 +1,4 @@
 # Evolutionary Robotics
-
 Which robot, a hexapod or quadruped, evolves to move further? To answer this question, I used PyBullet physics engine to compare the evolution of a Quadruped and Hexapod robot over the same evolutionary algorithm. This algorithm gives higher fitness scores to robots that moved far and in regular motion.
 
 # Evolution 
